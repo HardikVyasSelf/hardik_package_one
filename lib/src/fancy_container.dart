@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 
 
-
 class FancyContainer extends StatelessWidget {
   final double size;
   final Color color;
