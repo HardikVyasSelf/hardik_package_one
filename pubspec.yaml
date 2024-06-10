@@ -1,6 +1,6 @@
 name: hardik_package_one
 description: A new Flutter project.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/HardikVyasSelf/hardik_package_one.git
 
 environment:
@@ -10,6 +10,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  hardik_package_two:
+    git:
+      url: https://github.com/HardikVyasSelf/hardik_package_two.git
 
 dev_dependencies:
   flutter_test:
