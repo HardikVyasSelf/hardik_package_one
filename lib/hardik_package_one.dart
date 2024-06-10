@@ -20,15 +20,16 @@
 //     );
 //   }
 // }
-
-import 'package:flutter/cupertino.dart';
-import 'package:hardik_package_two/hardik_package_two.dart';
-
-class Cal extends StatelessWidget {
-  const Cal({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return Text("${Calculator().addOne(5)}");
-  }
-}
+//
+//
+// import 'package:flutter/cupertino.dart';
+// import 'package:hardik_package_two/hardik_package_two.dart';
+//
+// class Cal extends StatelessWidget {
+//   const Cal({super.key});
+//
+//   @override
+//   Widget build(BuildContext context) {
+//     return Text("${Calculator().addOne(5)}");
+//   }
+// }
